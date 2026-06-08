@@ -1,0 +1,11 @@
+You are writing a concise weekly pulse summary from multiple theme summaries.
+
+Input:
+- Theme names
+- Theme summaries
+- Representative quotes
+- Total counts
+
+Task:
+Create a cohesive summary of the top themes and user sentiment in 250 words or fewer.
+The summary should be scannable, objective, and reference the most critical user issues.

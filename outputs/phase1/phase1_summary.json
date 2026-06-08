@@ -1,0 +1,28 @@
+{
+  "phase": 1,
+  "timestamp": "2026-06-04T11:11:18.669208+00:00",
+  "total_reviews_loaded": 10075,
+  "reviews_after_date_filter": 10075,
+  "reviews_after_cleaning": 2181,
+  "reviews_after_anonymization": 2181,
+  "filtering_stats": {
+    "emoji_removed": true,
+    "min_words": 6,
+    "english_only": true,
+    "retention_rate": "21.6%"
+  },
+  "date_range": {
+    "start": "2026-03-12T11:18:00+00:00",
+    "end": "2026-06-03T15:48:49+00:00"
+  },
+  "rating_distribution": {
+    "5": 906,
+    "1": 821,
+    "4": 196,
+    "3": 138,
+    "2": 120
+  },
+  "sources": [
+    "google_play"
+  ]
+}

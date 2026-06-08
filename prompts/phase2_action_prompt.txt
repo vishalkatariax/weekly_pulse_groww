@@ -1,0 +1,14 @@
+You are generating concrete, actionable product and engineering recommendations from anonymized user review themes.
+
+Input:
+- Theme summaries
+- Representative quotes per theme
+
+Task:
+Generate 3 highly specific action items that are technical, measurable, and linked to the user feedback.
+Keep each item brief and distinct.
+
+Output format:
+1. <action item>
+2. <action item>
+3. <action item>

@@ -1,0 +1,242 @@
+{
+  "phase": 2,
+  "timestamp": "2026-06-07T04:53:33.692244+00:00",
+  "review_count": 2181,
+  "sampled_count": 1000,
+  "theme_analysis": [
+    {
+      "theme": "KYC",
+      "counts": {
+        "negative": 31,
+        "neutral": 2,
+        "positive": 1,
+        "total": 34
+      },
+      "top_terms": [
+        "this",
+        "company",
+        "they",
+        "your",
+        "customer"
+      ],
+      "quotes": [
+        {
+          "id": "aeaad813-d01f-498d-aa7c-d742dfe8e4e2",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "A big Cheater company. pls refer my example. I have sold one of stock in my holdings namely Azad engineering on 6th May 2026 at 3.28 PM. The price shown by Groww app was 2294 but when I checked my orders they made it sold at 2282. They are cheaters and having lots of technical issues. also very very very pathetic customer service support. also many a times app laggs , get stucked in market timings so u can not buy/sell many a times on crucial timings. a lots of technical, support , issues."
+        },
+        {
+          "id": "f0018dc1-87ac-4c90-9fc7-0f4cf32f7430",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "this is the most worst app in the world for trading.I am withdrawing my money from morning I have tried atleast 10 to 15 times and I have not received my money.I suggested this app is worst trading platform in the world. I have made a very big mistake that I have used this app. They have blocked my account without any reason. I have done my kyc again and again near about 10 to 12 time and my account is blocked yet I request you to don't use this app"
+        },
+        {
+          "id": "4d3dd201-39be-45d7-a723-536d9f32ce18",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "this Company is a scam and they will also involve the government on the scam experience invest 33k profit booked 1k, this company charged me 1.5k brokerage and 1.5k government regulator charges, and other tax 1.5 k total collected 4.5K for getting benefit of 1k reason : buying or selling F&O each time 20rs. and tax this company is a fraud please don't use it they will make us to wait when we try to talk with customer care at least for 15mins"
+        }
+      ],
+      "summary": "Summary: The majority of user feedback for the KYC theme is negative, with users expressing frustration and mistrust towards the company due to issues with account blocking, technical problems, and perceived unfair charges. Users have reported difficulties with the KYC process, app performance, and customer support, leading to a strong negative sentiment towards the platform. Recommendation: The product and engineering teams should prioritize streamlining the KYC process, improving app performance and stability, and enhancing customer support to address the significant user pain points and rebuild trust with the user base. Summary: The majority of user feedback for the KYC theme is negative, with users expressing frustration and mistrust towards the company due to issues with account blocking, technical problems, and perceived unfair charges. Users have reported difficulties with the KYC process, app performance, and customer support, leading to a strong negative sentiment towards the platform. Recommendation: The product and engineering teams should prioritize streamlining the KYC process, improving app performance and stability, and enhancing customer support to address the significant user pain points and rebuild trust with the user base."
+    },
+    {
+      "theme": "Onboarding",
+      "counts": {
+        "negative": 12,
+        "neutral": 3,
+        "positive": 4,
+        "total": 19
+      },
+      "top_terms": [
+        "this",
+        "login",
+        "groww",
+        "very",
+        "account"
+      ],
+      "quotes": [
+        {
+          "id": "58d09cb3-b324-461a-8d0c-85fc448f3f40",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "(1) When will you give basket trade option for equity trading? Currently available only for F&O trading. I need to move to 5paisa app for that only. (2)I forgot my password. And for resetting password the OTP comes after time has expired. Send OTP to mobile number. Email option is very slow. I have exhausted all my attempts. Hope it is resolved already."
+        },
+        {
+          "id": "60b630a3-c610-4a36-ba83-84dbfcecdd0d",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "i open my account in groww and login in mobile easily but when I use this app in my pc this is lettarly harder than upsc exam this show me password not contain name even if I try 100th diffrent password solve this password issue and make app user friendly by just login with phone number"
+        },
+        {
+          "id": "7e96152c-f3a7-44df-8929-b479f4cfa3a2",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "even after trying to sell my shares for about 5 times applyng the tpin and otp its showing error which is frustrating.Where even 1 second matter here i am trying for about 5 minutes.This is the first time i am facing this issue befire it wasent like this.i dont know whats wrong with this app."
+        }
+      ],
+      "summary": "Summary: The onboarding theme received mostly negative feedback, with users experiencing difficulties with login and password reset processes, as well as issues with trading and account management. Users are frustrated with the complexity and inefficiency of these processes, leading to a poor overall onboarding experience. Recommendation: The product team should prioritize simplifying and streamlining the login and password reset processes, such as introducing a phone number login option and improving the OTP delivery system, to reduce user friction and improve the overall onboarding experience. Summary: The onboarding theme received mostly negative feedback, with users experiencing difficulties with login and password reset processes, as well as issues with trading and account management. Users are frustrated with the complexity and inefficiency of these processes, leading to a poor overall onboarding experience. Recommendation: The product team should prioritize simplifying and streamlining the login and password reset processes, such as introducing a phone number login option and improving the OTP delivery system, to reduce user friction and improve the overall onboarding experience."
+    },
+    {
+      "theme": "Other",
+      "counts": {
+        "negative": 566,
+        "neutral": 18,
+        "positive": 9,
+        "total": 593
+      },
+      "top_terms": [
+        "this",
+        "very",
+        "groww",
+        "trading",
+        "they"
+      ],
+      "quotes": [
+        {
+          "id": "792fcd87-b695-4efd-9239-efa1956ffa94",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "TOTALY WASTE OF TIME AND MONEY ALSO THIS PLATFORM LIKE A SATTA CALLED IT JUWA THAT'S IT BEGINNER'S STAY SAFE IF U ENTER HERE THAN YOUR MIND THINKING THAT HO SKTA HAI MAI LUCKY HU THORA SE KHELTA HU AGLE DIN LOSS ME JAOGE TO OS DAALOGE MANN BOLEGA BS EK OR . SO JAO 99% CHANCE RKHNA KI LOSS HI HOGA OR 1 % SORF VO JO EXPERIENCE HAIN SO TUM UNME BHI NHI HO OR NAA MAI DON'T WASTE MONEY HERE BUT U CAN SIP HERE DON'T PLAY F&O, STICKS ETC..JUST DO SIP ONLY IN MF THANKS BYE HAVE A NICE DAY."
+        },
+        {
+          "id": "19c9749f-0b19-40ec-9113-8ca5684bd92d",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "It's a very difficult app for an option trader while the limit orders execute in the market & GTT orders will execute far from the limit we set. SL is also the same, if we keep 10 points as SL it goes nearly 13 to 14 points & hits the SL. while coming to targets if we keep 20 points it will hit nearly 16 to 18 points. And the app does not provide any bracket orders, we can't set our targets & SL before the order activates, we only set the SL & Targets once the order activates."
+        },
+        {
+          "id": "d428094c-883b-43b5-87f7-1b45231a316e",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "In the latest version,the trading chart of groww application is useless not only that even the trading view chart is not working auto fib retrce isn't available if you try to use it manually then you can't set it up properly even if you try to remove fib indicator you can't ( and in old trading view chart you can split the screen in maximum 6 sections and can see 6 different stocks at a time)now can see only 1 chart for 1 stock that also malfunctioning it is really very poor form of groww app!!?"
+        }
+      ],
+      "summary": "Summary: The \"Other\" theme receives overwhelmingly negative feedback, with users expressing frustration and disappointment with the platform's trading features, order execution, and technical charting tools. Users report issues with limit orders, stop-loss orders, and the lack of bracket orders, as well as problems with the trading chart and technical indicators. Recommendation: The product and engineering teams should prioritize enhancing the trading features and technical charting tools, including the implementation of bracket orders and improvement of order execution accuracy, to address the significant user pain points and improve the overall user experience. Summary: The \"Other\" theme receives overwhelmingly negative feedback, with users expressing frustration and disappointment with the platform's trading features, order execution, and technical charting tools. Users report issues with limit orders, stop-loss orders, and the lack of bracket orders, as well as problems with the trading chart and technical indicators. Recommendation: The product and engineering teams should prioritize enhancing the trading features and technical charting tools, including the implementation of bracket orders and improvement of order execution accuracy, to address the significant user pain points and improve the overall user experience."
+    },
+    {
+      "theme": "Payments",
+      "counts": {
+        "negative": 214,
+        "neutral": 13,
+        "positive": 12,
+        "total": 239
+      },
+      "top_terms": [
+        "charges",
+        "this",
+        "funds",
+        "groww",
+        "mutual"
+      ],
+      "quotes": [
+        {
+          "id": "9e37f7a9-4cc4-485e-9c31-6a434cdd78a9",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "iske mutual funds k paise apne aap kat jaate h. ya to ye ya fir inka staff krta hoga. par jhelna to hame h. mere kai saare Mutual funds k paise nikaala liya h. upar se nahi customer care se baat ho rhi or nahi complain pe kuch ho rha h. kindly resolve it & take strict action on it. otherwise no one will use this aap if you will cheat people. agar mere paise wapas ni hue to i will handover it to police. saare fraud hi h, customer support number pe call krne k baad OTP mangta h. How can I believe"
+        },
+        {
+          "id": "f2a4bd02-42a1-4168-aa22-72b3ee3df9c4",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "Almost everyone think groww charges less brokerage,but guess what, it charges the highest brokerage - 0.2% of the whole transaction for MTF with no capping, so if suppose you have 1 lac ₹ and you get ×4 times MTF = 4 lac₹ equity trade , now if you exit in no profit no loss situation you exit for a price of 4 lac ₹ ,so they charge you for 8 lac₹ ( 4 exit 4 entry) =0.002×800000= 1600 Rs for a single trade and you were also paying interest of 14.95% pa of the complete amount. Crux- YOU LOOSE 2-3%"
+        },
+        {
+          "id": "12dd1024-fd81-4d35-a086-9ed893299238",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "very slow process and disappointing process, I buyed a share for 281rs and I sell it for 295rs, the blockage charges for that share was 5rs, so I have the profit for 285, but there process was so slow it took more than a week. and because of there delay the market got crashed and the value of that share was low so I received the payment of 250. so it's not ok for big investors and traders, because if you know that the market is gonna crash tomorrow you can't make it in time to sell it."
+        }
+      ],
+      "summary": "Summary: Users have expressed significant dissatisfaction with the payment process on the Groww platform, citing issues with unexpected charges, high brokerage fees, and slow processing times that have resulted in financial losses. The negative feedback suggests a lack of transparency and efficiency in the payment system, leading to frustration and mistrust among users. Recommendation: The product and engineering teams should prioritize reviewing and optimizing the payment processing system to reduce delays, increase transparency around fees and charges, and provide more competitive brokerage rates to improve user trust and satisfaction. Summary: Users have expressed significant dissatisfaction with the payment process on the Groww platform, citing issues with unexpected charges, high brokerage fees, and slow processing times that have resulted in financial losses. The negative feedback suggests a lack of transparency and efficiency in the payment system, leading to frustration and mistrust among users. Recommendation: The product and engineering teams should prioritize reviewing and optimizing the payment processing system to reduce delays, increase transparency around fees and charges, and provide more competitive brokerage rates to improve user trust and satisfaction."
+    },
+    {
+      "theme": "Statements",
+      "counts": {
+        "negative": 40,
+        "neutral": 5,
+        "positive": 2,
+        "total": 47
+      },
+      "top_terms": [
+        "balance",
+        "this",
+        "portfolio",
+        "have",
+        "showing"
+      ],
+      "quotes": [
+        {
+          "id": "88e732d4-a5cf-4b50-ba2e-9954eecf2a4b",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "in starting all thing is good but now I am facing to much glitch and the glitch are posetion terminal got fresed or some time it doesn't show the full balance and the recent case is I book the profit 29 th March and today is 1 aprail in when I check it yesterday it show the balance in afternoon I check it goes in previous balance and I check today the updated balance is showing and now.i want to take my posetion in f&o now I doent showing the balance now who is responsible I lost the opportunit"
+        },
+        {
+          "id": "c7ea98d8-3ded-4276-9e2b-46bb74b6ce38",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "I have been using the grow app for the last 3 years now I conclude this is very worst app. I have placed an order and it was successfully placed. after 2 hrs my account balance showed negative balance. and my trade was showing 1100 profit when trade went negative it is auto square off. when connect to support he said we due to holiday your profite amount and your real money was blocked due to this account balance is showing negative. and it will reflect today after EOD run. seriously."
+        },
+        {
+          "id": "320abd96-7df3-4d7b-9347-8848d3ae77c2",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "If u have 1L capital and make 50K profit and withdraw 50K. Then your net tradable balance will be 1L. With withdrawalble balance 50K and Tradable (unsettled)50K. and if you incur loss of 90K and deposit the withdrawn balance again of 50K. Then your balance will be 60K. But to them that 50K is there father's property and they make people and SEBI fool, by using this scam and show there transaction history proof.Shameless scamsters. I've lodged complaint against u and next i am going to lodge FIR."
+        }
+      ],
+      "summary": "Summary: Users are experiencing issues with the accuracy and consistency of their account balance displays, resulting in frustration and mistrust, with many reporting glitches, incorrect balance updates, and discrepancies in their tradable and withdrawable balances. The majority of feedback is negative, with only a few neutral or positive comments, indicating a significant problem that needs to be addressed. Recommendation: The product/engineering team should prioritize fixing the balance display issues and implement a more transparent and accurate accounting system to reflect users' true balances, including unsettled trades and withdrawn funds, to restore user trust and confidence in the platform. Summary: Users are experiencing issues with the accuracy and consistency of their account balance displays, resulting in frustration and mistrust, with many reporting glitches, incorrect balance updates, and discrepancies in their tradable and withdrawable balances. The majority of feedback is negative, with only a few neutral or positive comments, indicating a significant problem that needs to be addressed. Recommendation: The product/engineering team should prioritize fixing the balance display issues and implement a more transparent and accurate accounting system to reflect users' true balances, including unsettled trades and withdrawn funds, to restore user trust and confidence in the platform."
+    },
+    {
+      "theme": "Withdrawals",
+      "counts": {
+        "negative": 64,
+        "neutral": 3,
+        "positive": 1,
+        "total": 68
+      },
+      "top_terms": [
+        "this",
+        "exit",
+        "money",
+        "very",
+        "withdrawal"
+      ],
+      "quotes": [
+        {
+          "id": "837c3488-c247-48e1-974a-e5e092c9dd37",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "this platform is fraud yesterday I purchased vikram engineering share that share price is 61 on when I purchased they give 116 share of my 1500 investment I thought that is glitch but when that share goes down I thought I want quite that share price of 59 rupees iwas dreaming that me investmed 1000 get back 5000 plus profit of 116 share but when I withdraw they give 1250 on my investment that loss of 116 share but they give 24 price of share but I lost 116 share price loss and extra brokarez"
+        },
+        {
+          "id": "c083489f-8e94-4427-93d2-d1e1c0155a61",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "I am very upset with customer support whose delay has resulted in financial loss to me. My Groww app hanged from 2.30pm onwards today while I was trying to redeem mutual funds. I tried relogging but it didn't help. I immediately called customer care but after 5-6 minutes the executive just stopped talking to me and transferred my call to IVR. I opened Customer Support chat at 2.46 pm but they could resolve my issue by 3.10pm by then I lost opportunity to get today's NAV for no fault of mine."
+        },
+        {
+          "id": "2a0130c0-76ca-4868-bfc2-694b37d0fb4d",
+          "rating": 1,
+          "sentiment": "negative",
+          "text": "i use grow app is more than 5 year but now grow is very bad and irritated app because i trade and app is not working properly slowly and hang very big bug not exit very early and much issues now i wil losses make to this app is bug ....so now some day i thinks is app owner game ...so plz not use grow my 5 year trust will now end ...i uninstall this app...very very very very badddd and you ask to AI answer is worst app for trading."
+        }
+      ],
+      "summary": "Summary: Users are experiencing significant frustration with the withdrawal process, citing issues such as unexpected losses, unresponsive customer support, and technical glitches that result in financial losses. The majority of feedback is negative, with users expressing distrust and dissatisfaction with the platform. Recommendation: The product and engineering teams should prioritize resolving technical issues and improving the withdrawal process to prevent unexpected losses and ensure timely, accurate transactions, and also enhance customer support responsiveness to address user concerns promptly. Summary: Users are experiencing significant frustration with the withdrawal process, citing issues such as unexpected losses, unresponsive customer support, and technical glitches that result in financial losses. The majority of feedback is negative, with users expressing distrust and dissatisfaction with the platform. Recommendation: The product and engineering teams should prioritize resolving technical issues and improving the withdrawal process to prevent unexpected losses and ensure timely, accurate transactions, and also enhance customer support responsiveness to address user concerns promptly."
+    }
+  ],
+  "summary": {
+    "timestamp": "2026-06-07T04:53:33.692244+00:00",
+    "model": "llama-3.3-70b-versatile",
+    "dry_run": false,
+    "actions": [
+      "Implement a real-time KYC verification process to reduce account blocking issues, with a goal of achieving a 90% success rate for first-time KYC attempts within the next 6 weeks.",
+      "Develop and deploy a new payment processing system that reduces delays and increases transparency around fees and charges, aiming to decrease user complaints about payment issues by 30% within the next 3 months.",
+      "Introduce a bracket order feature and improve the accuracy of limit orders and stop-loss orders, with a target of reducing user-reported issues with order execution by 25% within the next 9 weeks. 1. Implement a real-time KYC verification process to reduce account blocking issues, with a goal of achieving a 90% success rate for first-time KYC attempts within the next 6 weeks."
+    ],
+    "pulse_word_count": 129,
+    "pulse_text": "Weekly Pulse Summary\n\nKYC: Summary: The majority of user feedback for the KYC theme is negative, with users expressing frustration and mistrust towards the...\n\nOnboarding: Summary: The onboarding theme received mostly negative feedback, with users experiencing difficulties with login and password reset processes, as well...\n\nOther: Summary: The \"Other\" theme receives overwhelmingly negative feedback, with users expressing frustration and disappointment with the platform's trading features, order...\n\nPayments: Summary: Users have expressed significant dissatisfaction with the payment process on the Groww platform, citing issues with unexpected charges, high...\n\nStatements: Summary: Users are experiencing issues with the accuracy and consistency of their account balance displays, resulting in frustration and mistrust,...\n\nWithdrawals: Summary: Users are experiencing significant frustration with the withdrawal process, citing issues such as unexpected losses, unresponsive customer support, and..."
+  }
+}
