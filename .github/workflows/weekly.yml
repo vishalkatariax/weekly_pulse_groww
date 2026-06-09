@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       EMAIL_RECIPIENTS: ${{ secrets.EMAIL_RECIPIENTS }}
+      DOC_ID: ${{ secrets.DOC_ID }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
