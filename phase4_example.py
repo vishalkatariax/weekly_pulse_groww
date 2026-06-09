@@ -159,12 +159,19 @@ def publish_and_draft_email(
         return
 
     # Publish to Google Docs via the MCP client
-    # Use existing Google Doc ID from CLI argument or DOC_ID env var; abort if neither is provided in MCP-only mode
-    doc_id_target = doc_id or os.getenv('DOC_ID')
+    # Use existing Google Doc ID from CLI argument, DOC_ID env var, or GOOGLE_DOC_ID env var; abort if none provided in MCP-only mode
+    doc_id_target = doc_id or os.getenv('DOC_ID') or os.getenv('GOOGLE_DOC_ID')
     if doc_id_target:
         logger.info(f"Using Google Doc ID: {doc_id_target}")
-        returned_doc_id = doc_id_target
-        success = True
+        # Ensure pulse_data contains the doc_id for the convenience function
+        pulse_data['doc_id'] = doc_id_target
+        # Publish via MCP-only mode (will append to existing doc)
+        success, returned_doc_id = create_pulse_document(
+            pulse_data=pulse_data,
+            doc_title=doc_title,
+            mcp_server_url=mcp_server_url,
+            use_mcp_only=True
+        )
     else:
         logger.error("DOC_ID environment variable or --doc-id argument is required in MCP-only mode. Cannot create a new document without Google credentials.")
         sys.exit(1)
