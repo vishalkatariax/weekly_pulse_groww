@@ -159,15 +159,16 @@ def publish_and_draft_email(
         return
 
     # Publish to Google Docs via the MCP client
-    # Use existing Google Doc if DOC_ID env var is set; otherwise abort because MCP-only mode cannot create new docs
-    doc_id_env = os.getenv('DOC_ID')
-    if doc_id_env:
-        logger.info(f"Using existing Google Doc ID from environment: {doc_id_env}")
-        returned_doc_id = doc_id_env
+    # Use existing Google Doc ID from CLI argument or DOC_ID env var; abort if neither is provided in MCP-only mode
+    doc_id_target = doc_id or os.getenv('DOC_ID')
+    if doc_id_target:
+        logger.info(f"Using Google Doc ID: {doc_id_target}")
+        returned_doc_id = doc_id_target
         success = True
     else:
-        logger.error("DOC_ID environment variable is required in MCP-only mode. Cannot create a new document without Google credentials.")
+        logger.error("DOC_ID environment variable or --doc-id argument is required in MCP-only mode. Cannot create a new document without Google credentials.")
         sys.exit(1)
+
 
     
     if not success or not returned_doc_id:
