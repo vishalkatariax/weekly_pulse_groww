@@ -271,7 +271,7 @@ def parse_cli_args() -> argparse.Namespace:
     parser.add_argument('--doc-id', type=str, help='Existing Google Doc ID to append content to')
     parser.add_argument('--to', type=str, help='Comma‑separated recipients for the email (overrides .env)')
     parser.add_argument('--cc', type=str, help='Comma‑separated CC recipients (overrides .env)')
-
+    return parser.parse_args()
 
 
 def main():

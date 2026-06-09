@@ -29,4 +29,4 @@ jobs:
       - name: Execute weekly pulse script
         # Adjust the script/flags according to your workflow
         run: |
-          python phase4_example.py
+          python phase4_example.py --use-real

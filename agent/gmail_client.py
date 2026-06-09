@@ -157,8 +157,8 @@ class GmailClient:
 
         url = f"{self.mcp_server_url.rstrip('/')}/{self.draft_endpoint.lstrip('/')}"
         payload = {
-            'to': to_addresses,
-            'cc': cc_addresses,
+            'to': ','.join(to_addresses) if isinstance(to_addresses, list) else to_addresses,
+            'cc': ','.join(cc_addresses) if isinstance(cc_addresses, list) else cc_addresses,
             'subject': subject,
             'html': html_body,
             'body': text_body,
