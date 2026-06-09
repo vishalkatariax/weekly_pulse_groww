@@ -1,0 +1,30 @@
+name: Weekly Pulse Scheduler
+
+# Runs every Monday at 09:00 UTC (adjust the cron expression if you need a different time)
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:  # Allows manual triggering from the GitHub UI
+
+jobs:
+  run-weekly-pulse:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Execute weekly pulse script
+        # Adjust the script/flags according to your workflow
+        run: |
+          python phase4_example.py --dry-run
