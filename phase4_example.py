@@ -170,7 +170,7 @@ def publish_and_draft_email(
             pulse_data=pulse_data,
             doc_title=doc_title,
             mcp_server_url=mcp_server_url,
-            use_mcp_only=False
+            use_mcp_only=True
         )
     
     if not success or not returned_doc_id:
