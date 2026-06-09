@@ -159,12 +159,20 @@ def publish_and_draft_email(
         return
 
     # Publish to Google Docs via the MCP client
-    success, returned_doc_id = create_pulse_document(
-        pulse_data=pulse_data,
-        doc_title=doc_title,
-        mcp_server_url=mcp_server_url,
-        use_mcp_only=False
-    )
+    # Use existing Google Doc if DOC_ID env var is set; otherwise publish a new doc
+    doc_id_env = os.getenv('DOC_ID')
+    if doc_id_env:
+        logger.info(f"Using existing Google Doc ID from environment: {doc_id_env}")
+        returned_doc_id = doc_id_env
+        success = True
+    else:
+        success, returned_doc_id = create_pulse_document(
+            pulse_data=pulse_data,
+            doc_title=doc_title,
+            mcp_server_url=mcp_server_url,
+            use_mcp_only=False
+        )
+    
     if not success or not returned_doc_id:
         logger.error("Failed to publish the pulse report to Google Docs.")
         sys.exit(1)
