@@ -8,7 +8,11 @@ on:
 
 jobs:
   run-weekly-pulse:
-    runs-on: ubuntu-latest
+    env:
+      EMAIL_RECIPIENTS: ${{ secrets.EMAIL_RECIPIENTS }}
+      EMAIL_CC: ${{ secrets.EMAIL_CC }}
+      EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+
 
     steps:
       - name: Checkout repository
